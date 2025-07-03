@@ -28,6 +28,7 @@ A digit recognition system that allows users to **draw a digit** on a canvas and
 ---
 
 ## 📷 GUI Preview
+![Image](https://github.com/user-attachments/assets/e710a946-b1d4-42e3-8978-9951188dc72d)
 
 
 Made By Aryan Sunilk
